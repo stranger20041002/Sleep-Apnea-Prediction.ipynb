@@ -91,4 +91,8 @@ The model should not be used to diagnose sleep apnea or make medical decisions.
 
 ## Author
 
-Add your name and GitHub profile here.
+## Author
+
+**Anirudh Sharma**
+
+GitHub: [@stranger20041002](https://github.com/stranger20041002)
